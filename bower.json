@@ -1,7 +1,7 @@
 {
   "name": "tgwc-autocomplete",
   "version": "3.0.0",
-  "homepage": "https://bitbucket.org/thegreatwebco/tgwc-autocomplete/overview",
+  "homepage": "git@bitbucket.org:thegreatwebco/tgwc-autocomplete.git",
   "authors": [
     "Hidenari Nozaki <hidenari@gmail.com>"
   ],
